@@ -1,3 +1,5 @@
+//first come first served job scheduling
+
 #include <stdlib.h>
 #include <stdio.h>
 
