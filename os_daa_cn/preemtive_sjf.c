@@ -1,3 +1,4 @@
+//shortest job first preemtive job scheduling
 #include <stdlib.h>
 #include <stdio.h>
 
